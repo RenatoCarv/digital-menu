@@ -1,4 +1,4 @@
-# 🍽️ Digital Menu
+# 🍽️ Digital Menu - RC
 
 Um cardápio digital interativo desenvolvido com HTML, CSS e JavaScript, utilizando o framework Bootstrap e a biblioteca de ícones Font Awesome.
 
